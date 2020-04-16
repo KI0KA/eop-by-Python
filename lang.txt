@@ -1,0 +1,4 @@
+%W test.csv
+5100046,The Bridge,1845-11-2,14 Seafield Road Longman Inverness,SEN Unit 2.0 Open
+%Q
+5100127,Bower Primary School,1908-1-19,Bowermadden Bower Caithness,01955 641225 Primary 25 2.6 Open
